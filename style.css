@@ -1,0 +1,9 @@
+table{
+    border: 1px solid #795548;
+    width:80%;
+    margin: auto;
+}
+tr:hover {
+    background-color: sienna;
+    color: white;
+}
